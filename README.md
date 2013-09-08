@@ -1,7 +1,7 @@
 a4982-single-side-stepper-pcb
 =============================
 
-![a4982 driver board](http://www.jaredwolff.com/img/originals/single-side-stepper-motor-driver-assembled.png)
+![a4982 driver board](http://www.jaredwolff.com/img/generated/microcarve-a4-cnc-machine-400x0-f1d306.png)
 
 Contains the EagleCAD files for my A4982 based Single Sided Stepper Motor Driver
 
